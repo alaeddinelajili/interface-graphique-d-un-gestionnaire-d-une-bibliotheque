@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>borrow-books.png</file>
+<<<<<<< HEAD
+=======
+        <file>ban01.jpg</file>
+>>>>>>> 02f0af2404ecd88c2fa5245ae04ada9c5700d253
+        <file>ban_interne06.jpg</file>
+        <file>078-512.png</file>
+        <file>login_out-512.png</file>
+        <file>multi-user-icon-300x300.png</file>
+        <file>logo-bibliotheque.png</file>
+        <file>cropped-Logo-p.png</file>
+        <file>Asset 3@2x.png</file>
+        <file>Asset 1@2x.png</file>
+        <file>Asset 2@2x.png</file>
+        <file>icon-clear-msg-notification.png</file>
+    </qresource>
+</RCC>
